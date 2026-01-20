@@ -1,0 +1,16 @@
+.dashboard-card {
+  display: block;
+  padding: 20px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: white;
+  font-weight: 600;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+
+.dashboard-card:hover {
+  background: #2563eb;
+  color: white;
+  transform: translateY(-2px);
+}
